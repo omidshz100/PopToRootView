@@ -30,6 +30,9 @@ To use PopToRootView, simply open the project in Xcode and run it on your iOS de
 - The tappCount variable is used to determine specific actions when tapping on the "Home" tab multiple times.
 
 Feel free to customize and extend the PopToRootView application based on your needs and requirements. If you encounter any issues or have suggestions for improvement, please refer to the [issues](#) section of this repository.
+## Video Demo
+
+[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=k5yyZ8R2Dig)
 
 Thank you for using PopToRootView! Happy coding!
 
